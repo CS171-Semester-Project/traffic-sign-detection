@@ -11,6 +11,16 @@ The following Python libraries and frameworks are required to run this notebook:
 - `numpy`
 - `pandas`
 - `matplotlib`
+- `seaborn`
+- `Pillow`
+- `scikit-learn`
+- `torch`
+- `torchvision`
+- `torchinfo`
+- `torchmetrics`
+- `ultralytics`
+- `tqdm`
+- `pyyaml`
 
 ## Setup
 1. Add your Kaggle API credentials to the Google Colab Secrets (key icon on the left).
